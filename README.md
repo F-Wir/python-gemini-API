@@ -14,4 +14,4 @@ template (ใช้เก็บหน้า web .index)
 
 
 สร้าง API
-https://script.google.com/macros/s/AKfycbx1am3jVw35aA12DqeHWWl4CxfRjga4JJrCULNeifLVplrnkzLVp4htSj9Q4bwtEwHdTg/exec
+
